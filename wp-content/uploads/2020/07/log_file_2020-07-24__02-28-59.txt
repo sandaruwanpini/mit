@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: growsass Demo Data were successfully downloaded!
+Initial max execution time = 10000
+Files info:
+Site URL = http://localhost/growsass
+Data file = C:\xampp\htdocs\growsass/wp-content/uploads/2020/07/demo-content-import-file_2020-07-24__02-28-59.xml
+Widget file = C:\xampp\htdocs\growsass/wp-content/uploads/2020/07/demo-widgets-import-file_2020-07-24__02-28-59.json
+Customizer file = C:\xampp\htdocs\growsass/wp-content/uploads/2020/07/demo-customizer-import-file_2020-07-24__02-28-59.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Growsass Posts Image - Recent Post - Imported
+Categories - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Tag Cloud - Popular Tags - Imported
+Meta - No Title - Widget already exists
+Text - No Title - Imported
+
+Footer Widget One : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Widget Two : 
+
+Navigation Menu - About Us - Imported
+
+Footer Widget Three : 
+
+Navigation Menu - Press - Imported
+
+Footer Widget Four : 
+
+Growsass Posts Image - News Feeds - Imported
+
+Footer Subscribe : 
+
+Growsass Subscriber - Get Every Updates Form There - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

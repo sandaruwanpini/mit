@@ -1,0 +1,2689 @@
+/**
+ * VictorThemes Styling
+*/
+
+@media screen and (max-width:1750px) {
+  /* Obra Home Google Analytics Page CSS */
+  .google-analytics-template .integration-style-two .obra-image img, .softwares-feature-item .obra-image img, .obra-board-status .obra-image img {
+    max-width: 100%;
+  }
+  .no-max-width img {
+    max-width: 100%;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .softwares-feature-item:nth-child(2n) .obra-image img {
+    margin-left: 0;
+  }
+
+}
+@media screen and (max-width:1650px) {
+  /* Product Details Page */
+  .single-product .right-sidebar .product > .container {
+    width: auto;
+    padding-right: 15px;
+    padding-left: 30px;
+  }
+  .single-product .left-sidebar .product > .container {
+    width: auto;
+    padding-right: 30px;
+    padding-left: 15px;
+  }
+  .woocommerce-page .obra-share-product .container {
+    width: auto;
+  }
+
+  .softwares-feature-item-custom .obra-image img {
+    margin-left: 0;
+  }
+}
+
+@media screen and (min-width:1500px) {
+  /* Obra Home Trello Page CSS */
+  .obra-faq .row {
+    margin: 0 -45px;
+  }
+  .obra-faq [class*="col-"] {
+    padding: 0 45px;
+  }
+}
+
+@media screen and (max-width:1340px) {
+  /* Obra Normal CSS */
+  .obra-nav .has-dropdown.sub .dropdown-nav {
+    left: auto;
+    right: 100%;
+  }
+}
+
+@media screen and (min-width:1270px) {
+  /* Obra Normal CSS */
+  .container {
+    padding: 0;
+  }
+  .obra-content-area {
+    padding: 100px 0 120px;
+  }
+  /* Obra Home Bitbucket Page CSS */
+  .obra-bitbucket-features .row {
+    margin: 0 -35px;
+  }
+  .obra-bitbucket-features [class*="col-"] {
+    padding: 0 35px;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .careers-wrap .row {
+    margin: 0 -23px;
+  }
+  .careers-wrap [class*="col-"] {
+    padding: 0 23px;
+  }
+}
+
+@media screen and (max-width:1269px) {
+  /* Obra Home Freshbook Page CSS */
+  .obra-features-work .nav-tabs > li {
+    padding-right: 40px;
+  }
+  .nav-tabs-one .nav-tabs > li {
+    padding-right: 37px;
+  }
+  .career-item {
+    margin-bottom: 30px;
+  }
+  /* Product Details Page */
+  .right-sidebar .woocommerce-page .obra-container,
+  .left-sidebar .woocommerce-page .obra-container {
+    padding: 0 15px;
+  }
+}
+@media screen and (max-width:1200px) {
+.obra-contact-form .obra-getstart-form input[type="submit"] {
+    min-width: 100%;
+    margin-left: 0;
+  }
+}
+
+@media screen and (min-width:1200px) {
+  /* Obra Normal CSS */
+  .header-style-two .obra-brand {
+    width: 14%;
+  }
+  .header-style-two .obra-header-right {
+    width: 86%;
+  }
+  .header-style-two .header-buttons, .header-style-two .header-links-wrap, .header-style-two .obra-toggle {
+    float: right;
+  }
+  /* Obra Home Bitbucket Page CSS */
+  .obra-testimonials .container {
+    width: 1018px;
+  }
+  /* Obra Home Zapier Page CSS */
+  .obra-special-features .container {
+    width: 1005px;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .obra-freshbook-features .container, .integration-style-four .container {
+    width: 995px;
+  }
+  /* Obra Home Trello Page CSS */
+  .obra-faq.faq-style-two .container {
+    width: 1170px;
+  }
+}
+
+@media screen and (max-width:1199px) {
+  /* Obra Normal CSS */
+  .owl-drag .owl-prev:before, .owl-drag .owl-next:before {
+    left: 0;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .owl-drag .owl-next:before {
+    left: auto;
+    right: 0;
+  }
+  .plan-info {
+    padding: 30px 30px 38px;
+  }
+  .plan-item.personal-item .plan-info {
+    padding: 45px 30px 55px;
+  }
+  .clients-style-five .client-title {
+    padding: 0 0 25px;
+    text-align: center;
+  }
+  .left-sidebar .obra-primary {
+    float: none;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .right-sidebar .obra-secondary::before {border-left: none;}
+  .left-sidebar .obra-secondary {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .obra-primary {
+    float: none;
+    width: auto;
+    padding-bottom: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .obra-primary:after {
+    display: none;
+  }
+  .obra-secondary {
+    float: none;
+    width: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .portfolio-detail-wrap {
+    padding-left: 0;
+  }
+  /* Obra Home Bitbucket Page CSS */
+  .workflow-item {
+    margin-right: 0;
+  }
+  /* Obra Home Dropbox Page CSS */
+  .obra-dropbox-features .feature-item {
+    text-align: center;
+  }
+  .obra-dropbox-features .feature-item .pull-left {
+    width: 100%;
+  }
+  .obra-dropbox-features .feature-info {
+    clear: both;
+    padding: 15px 0 0;
+  }
+  .teamwork-info {
+    width: 470px;
+  }
+  /* Obra Home Zapier Page CSS */
+  .app-work-item {
+    padding: 0 0 35px;
+  }
+  .app-work-item .obra-icon:after {
+    width: 200%;
+  }
+  /* Obra Home Google Analytics Page CSS */
+  .device-features-info {
+    padding-right: 0;
+  }
+  .obra-get-app .obra-image img {
+    left: 120px;
+  }
+  .obra-get-app .obra-image img.second-screen {
+    left: 0;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .softwares-feature-item .special-feature-info {
+    padding-right: 0;
+  }
+  .career-item {
+    padding: 30px;
+  }
+  /* Obra Home Trello Page CSS */
+  .trello-template .banner-caption, .banner-caption.caption-left-align {
+    float: none;
+    text-align: center;
+  }
+  .trello-template .obra-banner .obra-image, .obra-banner.banner-style-two .obra-image {
+    display: none;
+  }
+  .obra-board-status .nav-tabs > li {
+    padding-right: 0;
+  }
+  /* Obra Jobs Details Page CSS */
+  .job-detail-wrap {
+    margin-top: 10px;
+  }
+  /* Obra Contact Us Page CSS */
+  .contact-info {
+    padding-right: 0;
+  }
+  .contact-info br {
+    display: none;
+  }
+  /* Obra FAQ Page CSS */
+  .obra-quick-support {
+    padding: 0;
+  }
+  .widget-quick-navigation {
+    min-width: 10px;
+  }
+  .widget-quick-navigation.fixed {
+    position: static;
+    padding-top: 0;
+  }
+  /* Shop Page */
+  .woocommerce .woo-col-4 ul.products li.product, .woocommerce-page .woo-col-4 ul.products li.product {
+    width: 33.33333333%;
+  }
+  /* Obra Product Details Page CSS */
+  .woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+    padding-left: 30px;
+  }
+  .woocommerce nav.woocommerce-pagination {
+    text-align: center;
+    padding-bottom: 45px;
+  }
+  /* Product Details Page */
+  .single-product .right-sidebar .product > .container,
+  .single-product .left-sidebar .product > .container {
+    width: 970px;
+  }
+  .right-sidebar .woocommerce-page .obra-container,
+  .left-sidebar .woocommerce-page .obra-container {
+    padding: 0;
+  }
+  .search .obra-secondary {
+    padding-top: 100px;
+    display: inline-block;
+    width: 100%;
+  }
+}
+@media screen and (max-width:1056px) {
+.width-ten {
+    width: 100%;
+  }
+}
+@media screen and (max-width:992px) {
+  .width-seven {
+    width: 100%;
+  }
+ /* .obra-testimonials .container {
+    width: 100%;
+    padding: 0;
+  }*/
+}
+@media screen and (min-width:992px) {
+  /* Obra Normal CSS */
+  .obra-container {
+    max-width: 870px;
+    margin: 0 auto;
+  }
+  .transparent-header .obra-nav .navigation-bar> ul > li > a {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #ffffff;
+  }
+  .transparent-header .obra-nav .navigation-bar> ul > li:hover > a, .transparent-header .obra-nav .navigation-bar> ul > li.active > a {
+    opacity: 0.75;
+  }
+  /* Obra Home Gmail CSS */
+  .obra-gmail-features .container, .obra-gmail-app .container {
+    width: 900px;
+  }
+  /* Obra Home Dropbox Page CSS */
+  .obra-faq .container {
+    width: 960px;
+  }
+  /* Obra Home Zapier Page CSS */
+  .obra-testimonials.testimonials-style-two .container {
+    width: 775px;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .obra-features-work .container {
+    width: 850px;
+  }
+  /* Obra Single Post 2 Page CSS */
+  .obra-hide-sidebar .blog-detail-style-two {
+    width: 804px;
+    margin: 0 auto;
+    float: none;
+    padding: 0;
+  }
+  .woocommerce div.product .woocommerce-tabs .panel {
+    max-width: 870px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width:900px) {
+  .width-eight {
+    width: 100%;
+  }
+}
+@media screen and (max-width:940px) {
+  .width-one {
+    width: 100%;
+  }
+}
+@media screen and (max-width:991px) {
+  /* Obra Normal CSS */
+  .width-nine {
+    width: 100%;
+  }
+  .port-left-sidebar .obra-floating-parent {
+    float: none;
+  }
+  .obra-integration .float-right {
+    float: none;
+  }
+  .sticky-footer .obra-footer {
+    position: static;
+  }
+  .obra-responsive-table table {
+    white-space: nowrap;
+  }
+  .main-wrap-inner {
+    margin-bottom: 0 !important;
+  }
+  .dark-transparent-header .obra-nav .navigation-bar> ul > li > a {
+    padding: 12px 0;
+  }
+  .obra-banner, .obra-main-wrap[class*="-template"] .obra-banner {
+    height: 800px;
+    min-height: 800px;
+  }
+  .features-wrap {
+    padding: 0;
+  }
+  .obra-integration .obra-section-title {
+    text-align: center;
+  }
+  .obra-integration .section-subtitle:after {
+    margin: 0 auto;
+  }
+  .integration-style-two .integration-info {
+    padding: 0 0 50px;
+  }
+  .integration-style-three .integration-info {
+    padding: 50px 0 0;
+  }
+  .integration-item:nth-child(2n) [class*="col-"] {
+    float: none;
+  }
+  .obra-integration .obra-item .integration-info {
+    padding: 50px 0 0;
+    text-align: center;
+  }
+  .testimonial-wrap {
+    min-height: 10px;
+  }
+  .obra-contact-form .obra-getstart-form input[type="submit"] {
+    min-width: 100%;
+    margin-left: 0;
+  }
+  .getstart-rules {
+    padding-top: 25px;
+  }
+  .status-item {
+    width: 230px;
+    padding: 0 20px;
+  }
+  .obra-callout .obra-btn {
+    margin: 8px 5px;
+  }
+  .obra-masonry .masonry-item.two-fifths, .obra-masonry .masonry-item.three-fifths, .masonry-item {
+    width: 50%;
+  }
+  .full-width .portfolio-detail-wrap {
+    max-width: 100%;
+  }
+  .obra-mid-wrap.mid-spacer-seven, .obra-mid-wrap.mid-spacer-eight {
+    padding-bottom: 200px;
+  }
+  .obra-footer-wrap .footer-item {
+    padding-bottom: 50px;
+  }
+  .obra-footer-wrap .footer-item:last-child {
+    padding-bottom: 0;
+  }
+  .obra-copyright {
+    text-align: center;
+  }
+  .obra-copyright ul li {
+    padding: 6px 15px;
+  }
+  .obra-copyright .pull-left {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+  .obra-copyright .pull-right {
+    width: 100%;
+  }
+  .obra-copyright .obra-social {
+    margin: 6px 10px;
+  }
+  .obra-copyright .obra-social a {
+    margin: 0 4px;
+  }
+  /* Obra Home Gmail Page CSS */
+  .obra-gmail-desktop {
+    padding-bottom: 100px;
+  }
+  .obra-gmail-desktop .gmail-feature-item {
+    text-align: center;
+  }
+  .obra-gmail-desktop .gmail-feature-item:nth-child(1n+1) [class*="col-"]:first-child, .obra-gmail-desktop .gmail-feature-item:nth-child(2n) [class*="col-"]:first-child {
+    float: none;
+    text-align: center;
+  }
+  .obra-gmail-desktop .gmail-feature-info {
+    padding: 40px 0 0;
+  }
+  .gmail-feature-title {
+    padding-bottom: 15px;
+  }
+  .obra-gmail-app .gmail-feature-info {
+    padding-right: 0;
+  }
+  /* Obra Home Bitbucket Page CSS */
+  .workflow-template {
+    padding-top: 50px;
+    text-align: center;
+  }
+  /* Obra Home Dropbox Page CSS */
+  .obra-enterprise-facilities {
+    text-align: center;
+  }
+  .enterprise-info {
+    padding: 50px 0 0;
+  }
+  .enterprise-title br {
+    display: none;
+  }
+  .obra-teamwork .obra-background {
+    min-height: 500px;
+  }
+  .teamwork-info {
+    width: auto;
+    padding: 100px;
+  }
+  .teamwork-info .section-title br {
+    display: none;
+  }
+  /* Obra Home Zapier Page CSS */
+  .app-work-item .obra-icon:before, .app-work-item .obra-icon:after, .app-work-item .obra-icon-wrap:before, .app-work-item .obra-icon-wrap:after {
+    display: none;
+  }
+  .obra-view-plans {
+    padding: 50px 0;
+    text-align: center;
+  }
+  .obra-view-plans .text-right {
+    text-align: center;
+  }
+  .view-plan-title {
+    padding: 0 0 25px;
+  }
+  .obra-special-features {
+    text-align: center;
+  }
+  .special-feature-info {
+    padding-top: 50px;
+  }
+  .special-feature-item:nth-child(2n) [class*="col-"]:first-child {
+    float: none;
+    text-align: center;
+  }
+  .connector-app-item:nth-child(2n) {
+    padding-top: 0;
+  }
+  /* Obra Home Google Analytics Page CSS */
+  .google-analytics-template .banner-caption {
+    width: auto;
+  }
+  .obra-device-features .obra-image {
+    text-align: left;
+  }
+  .device-features-style-two .device-features-info {
+    padding-top: 0;
+  }
+  .obra-get-app.get-app-style-two {
+    padding: 120px 0 100px;
+    text-align: center;
+  }
+  .get-app-style-two .obra-image {
+    display: none;
+  }
+  .get-app-style-two .get-apps-info {
+    width: auto;
+    padding: 0;
+  }
+  .get-apps-links a {
+    margin-left: 10px;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .freshbook-template .banner-caption {
+    width: auto;
+  }
+  .obra-freshbook-features .feature-item {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .obra-features-work {
+    text-align: center;
+  }
+  .obra-features-work .nav-tabs > li {
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 12px;
+  }
+  .nav-tabs-one .nav-tabs > li {
+    padding: 0 12px;
+  }
+  .obra-features-work .nav-tabs > li:last-child {
+    padding-right: 12px;
+  }
+  .features-work-info {
+    padding-top: 50px;
+  }
+  .obra-softwares-features .obra-btns-wrap a {
+    margin: 0 5px 10px;
+  }
+  .softwares-feature-item {
+    padding-bottom: 100px;
+    text-align: center;
+  }
+  .softwares-feature-item:nth-child(2n) [class*="col-"]:first-child {
+    float: none;
+  }
+  .softwares-feature-item .special-feature-info {
+    padding: 0 0 50px;
+  }
+  /* Obra Home Trello Page CSS */
+  .obra-board-status .tab-content, .signup-info {
+    padding-top: 50px;
+  }
+  /* Obra Home AWS Page CSS */
+  .obra-signup {
+    text-align: center;
+  }
+  .obra-signup .obra-section-title {
+    text-align: center;
+  }
+  .signup-info br {
+    display: none;
+  }
+  /* Obra Shop Page CSS */
+  .woocommerce ul.products li.product, .woocommerce-page ul.products li.product,
+  .woocommerce .woo-col-4 ul.products li.product, .woocommerce-page .woo-col-4 ul.products li.product {
+    width: 50%;
+  }
+  /* Obra Product Details Page CSS */
+  .woocommerce #content div.product div.images, .woocommerce div.product div.images, .woocommerce-page #content div.product div.images, .woocommerce-page div.product div.images {
+    float: none;
+    width: auto;
+    overflow: hidden;
+    clear: both;
+  }
+  .woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+    float: none;
+    width: auto;
+    padding: 50px 0 0;
+  }
+  .woocommerce .woocommerce-tabs .obra-container {
+    max-width: 750px;
+    padding: 0 15px;
+  }
+  .single-product .right-sidebar .product > .container {
+    width: 750px;
+    padding-left: 15px;
+  }
+  .single-product .left-sidebar .product > .container {
+    width: 750px;
+    padding-right: 15px;
+  }
+  /* Obra Cart Page CSS */
+  .woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
+    float: none;
+    width: auto;
+  }
+  /* Obra Checkout Page CSS */
+  .woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    float: none;
+    width: auto;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+    float: none;
+    width: auto;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-top: 50px;
+  }
+  .woocommerce-account form.login {
+    margin-bottom: 20px;
+  }
+  .woocommerce div.product .woocommerce-tabs .panel {
+    max-width: 750px;
+    padding: 0 15px;
+  }
+}
+@media only screen and (max-width: 782px) {
+  .admin-bar .is-sticky header.obra-header {
+    top: 46px !important;
+  }
+  .admin-bar .transparent-header header.obra-header {
+    top: 46px;
+  }
+  .obra-tabs.obra-board-status .tab-item-content li {width:50%;}
+}
+@media screen and (max-width: 600px) {
+  .admin-bar .is-sticky header.obra-header {
+    top: 0 !important;
+  }
+
+}
+@media screen and (max-width:799px) {
+  /* Obra Normal CSS */
+  .container, .obra-nav .navigation-bar> ul, .woocommerce .woocommerce-tabs .obra-container {
+    padding: 0 25px;
+  }
+  .mean-container .header-links-wrap {
+    margin-right: 40px;
+  }
+  .obra-content-area {
+    padding-top: 70px;
+    padding-bottom: 80px;
+  }
+  .width-two {
+    width: 100%;
+  }
+  .banner-caption {
+    width: auto !important;
+  }
+  .obra-testimonials .container {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width:768px) {
+  /* Obra Normal CSS */
+  form .row {
+    margin: 0 -5px;
+  }
+  form [class*="col-"] {
+    padding: 0 5px;
+  }
+  .obra-main-wrap[class*="transparent-header"] .obra-brand {
+    padding: 37px 0;
+  }
+  .obra-main-wrap[class*="transparent-header"] .header-buttons {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .obra-main-wrap[class*="transparent-header"] .obra-toggle {
+    padding-top: 36px;
+    padding-bottom: 36px;
+  }
+  .obra-main-wrap[class*="transparent-header"] .header-links-wrap {
+    padding: 39px 0 39px 10px;
+  }
+  .transparent-header .mean-container a.meanmenu-reveal {
+    top: 14px;
+  }
+  .obra-get-start .container {
+    width: 590px;
+  }
+  /* Obra Home Gmail CSS */
+  .gmail-template .obra-get-start .container {
+    width: 460px;
+  }
+  /* Obra Home Zapier CSS */
+  .obra-main-wrap.zapier-template .obra-brand {
+    padding: 40px 0;
+  }
+  .obra-main-wrap.zapier-template .header-buttons {
+    padding-top: 33px;
+    padding-bottom: 33px;
+  }
+  .zapier-template .header-buttons .obra-btn {
+    padding: 7px 14px 8px;
+    margin-left: 6px;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+  }
+  /* Obra Home Google Analytics CSS */
+  .obra-main-wrap.google-analytics-template .obra-brand {
+    padding: 39px 0;
+  }
+  /* Obra Home AWS Page CSS */
+  .obra-main-wrap.aws-template .obra-brand {
+    padding: 39px 0;
+  }
+  .obra-testimonials.testimonials-style-four .container {
+    width: 750px;
+  }
+  /* Obra About Us Page CSS */
+  .story-images-wrap .row {
+    margin: 0 -10px;
+  }
+  .story-images-wrap [class*="col-"] {
+    padding: 0 10px;
+  }
+  /* Obra Single Post Page CSS */
+  .obra-comment-form .row {
+    margin: 0 -10px;
+  }
+  .obra-comment-form [class*="col-"] {
+    padding: 0 10px;
+  }
+
+}
+@media screen and (max-width:768px) {
+  /* Product Details Page */
+  .single-product .right-sidebar .product > .container,
+  .single-product .left-sidebar .product > .container {
+    width: 750px;
+  }
+  .woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    width: 50%;
+    float: left;
+    margin-bottom: 0;
+  }
+}
+@media screen and (max-width:767px) {
+  /* Obra Normal CSS */
+  p, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    padding-bottom: 10px;
+  }
+  h1, .h1 {
+    font-size: 30px;
+  }
+  h2, .h2 {
+    font-size: 26px;
+  }
+  h3, .h3 {
+    font-size: 20px;
+  }
+  textarea, textarea.form-control {
+    height: 130px;
+  }
+  blockquote {
+    margin: 10px 0 15px;
+  }
+  .row {
+    margin: 0;
+  }
+  .page-title-wrap.padding-xl {
+    padding-top: 50px !important;
+    padding-bottom: 40px !important;
+  }
+  .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9 {
+    padding: 0;
+  }
+  .owl-carousel .owl-dots {
+    padding-top: 15px;
+  }
+  .mfp-container {
+    padding: 0;
+  }
+  .mfp-close {
+    top: 0;
+    right: 0;
+    width: 35px;
+    height: 35px;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  .mfp-close:active {
+    top: 0;
+  }
+  .mfp-close:before, .mfp-close:after {
+    top: 9px;
+    left: 16px;
+  }
+  .mfp-arrow-left {
+    left: 15px;
+  }
+  .mfp-arrow-right {
+    right: 26px;
+  }
+  .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
+    position: fixed;
+    top: 0;
+    width: 35px;
+  }
+  .nav-tabs {
+    margin-bottom: 15px;
+    border-bottom: none;
+  }
+  .nav-tabs > li {
+    padding: 0 30px 10px 0;
+  }
+  .obra-map {
+    height: 300px;
+  }
+  .obra-pagination {
+    padding-top: 0;
+  }
+  .obra-main-wrap[class*="-template"] .banner-caption .obra-btn {
+    margin: 0 4px 12px;
+  }
+  .obra-main-wrap[class*="-template"] .start-style-two, .obra-get-start.start-style-two {
+    padding: 45px 0 35px;
+  }
+  .obra-main-wrap[class*="-template"] .start-style-two .obra-section-title h2 {
+    font-size: 30px;
+  }
+  .obra-nav .navigation-bar> ul {
+    width: auto;
+  }
+  .navbar-nav>li {
+    float: left;
+  }
+  .header-links-wrap {
+    position: static;
+  }
+  .search-box {
+    padding: 25px;
+    border: none;
+    -webkit-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  }
+  .obra-banner, .obra-main-wrap[class*="-template"] .obra-banner {
+    height: 500px;
+    min-height: 500px;
+  }
+  .banner-caption {
+    width: auto !important;
+  }
+  .banner-caption p {
+    padding-bottom: 10px;
+    font-size: 18px;
+  }
+  .banner-caption h2, .obra-main-wrap[class*="-template"] .banner-caption h2, .obra-section-title h2, .testimonials-style-two .obra-section-title h2, .get-app-style-two h2, .obra-softwares-features h2, .integration-style-four .obra-section-title h2, .portfolio-detail-wrap h2, .obra-form .obra-section-title h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .obra-template-image {
+    display: none;
+  }
+  .obra-banner.has-template-image .obra-table-row-wrap {
+    display: table-row;
+  }
+  .obra-banner.has-template-image .obra-template-image, .obra-banner-separator {
+    display: none;
+  }
+  .banner-caption .obra-btns-wrap, .obra-main-wrap[class*="-template"] .banner-caption .obra-btns-wrap {
+    padding-top: 5px;
+  }
+  .banner-caption .obra-btn {
+    min-width: 190px;
+    padding: 12px 25px;
+    font-size: 16px;
+  }
+  .banner-caption .other-option {
+    margin: 0 10px 12px 15px;
+  }
+  .banner-caption .learn-link {
+    margin: 0 10px 12px;
+  }
+  .has-template-image .obra-align-wrap {
+    vertical-align: middle;
+  }
+  .banner-caption-title {
+    padding-bottom: 10px;
+  }
+  .banner-caption-title br {
+    display: none;
+  }
+  .obra-section-title {
+    max-width: 100%;
+    padding-bottom: 20px;
+  }
+  .obra-section-title br {
+    display: none;
+  }
+  .obra-section-title .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  .obra-section-title .vnture-icon {
+    padding-bottom: 15px;
+  }
+  .section-title {
+    padding-bottom: 20px !important;
+  }
+  .section-subtitle {
+    margin-bottom: 15px;
+  }
+  .feature-item {
+    padding-bottom: 15px;
+  }
+  .feature-title {
+    padding-bottom: 10px;
+  }
+  .obra-get-start, .obra-gmail-features, .obra-get-app, .obra-plans.plans-style-two, .obra-enterprise-facilities, .obra-clients.clients-style-three, .obra-special-features, .obra-subscribe, .obra-device-features, .obra-get-app.get-app-style-two, .obra-freshbook-features, .obra-features-work, .obra-callout.callout-style-two, .obra-getstart-form.getstart-style-two, .obra-signup, .obra-contact-wrap, .obra-mid-wrap, .obra-mid-wrap[class*="mid-spacer-"], .woocommerce .related-products {
+    padding: 50px 0;
+  }
+  .obra-get-start .section-title {
+    padding-bottom: 10px;
+  }
+  .obra-integration .obra-btns-wrap, .obra-btns-wrap {
+    padding-top: 15px;
+  }
+  .integration-style-two .integration-info {
+    padding-bottom: 25px;
+  }
+  .integration-item {
+    padding-bottom: 25px;
+  }
+  .integration-info {
+    padding-top: 25px;
+  }
+  .obra-plans.plans-style-three, .obra-status.status-style-two, .obra-softwares-features, .obra-aws-features, .obra-dropbox-features.dropbox-features-style-two, .obra-integration.integration-style-four {
+    padding: 50px 0 25px;
+  }
+  .obra-app-works {
+    padding: 20px 0 25px;
+  }
+  .obra-testimonials .obra-section-title, .obra-plans .obra-section-title, .obra-faq .obra-section-title, .obra-gmail-features .obra-section-title, .obra-enterprise-facilities .obra-section-title, .obra-app-works .obra-section-title, .obra-connectors .obra-section-title, .obra-special-features .obra-section-title, .obra-plans.plans-style-three .obra-section-title, .obra-subscribe .obra-section-title, .obra-analytics-features .obra-section-title, .obra-status .obra-section-title, .google-analytics-template .obra-testimonials .obra-section-title, .obra-freshbook-features .obra-section-title, .obra-features-work .obra-section-title, .obra-trello-features .obra-section-title, .obra-glances .obra-section-title, .obra-board-status .obra-section-title, .obra-faq.faq-style-two .obra-section-title {
+    padding-bottom: 20px;
+  }
+  .obra-testimonials.testimonials-style-three .owl-carousel p {
+    padding-bottom: 10px;
+    font-size: 17px;
+    line-height: 30px;
+  }
+  .testimonials-style-two .owl-carousel p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .testimonials-style-two .testimonial-author {
+    margin-top: 5px;
+  }
+  .testimonials-style-two .author-image {
+    padding-bottom: 5px;
+  }
+  .testimonials-style-three .author-image {
+    float: none;
+  }
+  .testimonials-style-three {
+    text-align: center;
+  }
+  .testimonials-style-three .author-info {
+    overflow: visible;
+    padding: 10px 0 0;
+  }
+  [class*="testimonials-style-"] .owl-drag .owl-prev:before, [class*="testimonials-style-"] .owl-drag .owl-next:before {
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .testimonial-item {
+    padding: 20px 25px 25px;
+    margin-bottom: 25px;
+  }
+  .testimonial-author {
+    margin-top: 25px;
+  }
+  .obra-plans .section-subtitle {
+    margin-bottom: 15px;
+  }
+  .obra-plans.plans-style-two .obra-section-title {
+    padding-bottom: 15px;
+  }
+  .plans-style-two .plan-info p {
+    min-height: 10px;
+  }
+  .plans-style-two .plan-item.personal-item .plan-info {
+    padding-top: 25px;
+  }
+  .obra-plans.plans-style-three .section-subtitle {
+    margin-bottom: 15px;
+  }
+  .obra-plans.plans-style-three .plan-info, .obra-plans.plans-style-three .plan-item.personal-item .plan-info {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .plan-item {
+    margin: 0 0 25px;
+  }
+  .plan-item.personal-item .plan-info, .plan-info {
+    padding: 25px;
+  }
+  .plan-info h2 {
+    font-size: 30px;
+  }
+  .plan-info ul {
+    padding-top: 20px;
+  }
+  .plan-info ul li {
+    padding-bottom: 10px;
+  }
+  .plan-info ul li:last-child {
+    padding-bottom: 0;
+  }
+  .plan-info .obra-icon {
+    margin-bottom: 15px;
+  }
+  .plan-info .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  .plan-type {
+    padding-bottom: 10px;
+  }
+  .obra-clients h2 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .obra-clients.clients-spacer-one {
+    padding-bottom: 50px;
+  }
+  .obra-clients.clients-style-two, .obra-clients.clients-style-six {
+    padding-top: 50px;
+  }
+  .clients-style-two .client-title, .clients-style-six .client-title {
+    padding-bottom: 25px;
+  }
+  .client-item {
+    padding: 0 15px;
+  }
+  .client-title {
+    padding-bottom: 25px;
+  }
+  .obra-callout h2 {
+    font-size: 26px;
+  }
+  .obra-switch {
+    padding-bottom: 25px;
+  }
+  .more-storage {
+    padding-top: 5px;
+  }
+  .obra-faq, .obra-faq.faq-style-three {
+    padding: 50px 0 30px;
+  }
+  .obra-faq.faq-style-two {
+    padding-bottom: 30px;
+  }
+  .faq-item {
+    padding-bottom: 10px;
+  }
+  .faq-title {
+    padding-bottom: 5px;
+  }
+  .panel-title a, .job-positions .panel-title a {
+    padding: 14px 45px 16px 20px;
+  }
+  .panel-title a:before {
+    width: 15px;
+  }
+  .panel-title a:after {
+    right: 25px;
+  }
+  .panel-title a.collapsed:after {
+    height: 15px;
+  }
+  .panel-content {
+    padding: 0 20px 10px;
+  }
+  .obra-get-start.start-style-two .section-title {
+    padding-bottom: 10px;
+  }
+  .obra-get-start.start-style-two .obra-section-title {
+    padding-bottom: 8px;
+  }
+  .obra-get-start .obra-btns-wrap {
+    padding-top: 5px;
+  }
+  .obra-parallax-arrow {
+    bottom: 20px;
+  }
+  .obra-subscribe .obra-section-title h2 {
+    line-height: 36px;
+  }
+  .subscribe-form {
+    width: auto;
+  }
+  .subscribe-form input[type="email"] {
+    float: none;
+    width: 100%;
+  }
+  .subscribe-form input[type="submit"] {
+    float: none;
+    width: 100%;
+    margin: 15px 0 0;
+  }
+  .status-item {
+    display: block;
+    width: auto;
+    padding: 0 0 25px;
+    margin-bottom: 0;
+  }
+  .status-item:after {
+    display: none;
+  }
+  .get-app-style-two .get-apps-title {
+    padding-bottom: 5px;
+  }
+  .get-apps-links {
+    padding-top: 0;
+    font-size: 48px;
+  }
+  .get-apps-links a {
+    margin: 0 8px;
+  }
+  .obra-link {
+    padding-top: 5px;
+  }
+  .glances-style-two .glance-item .obra-icon {
+    padding-bottom: 0;
+  }
+  .obra-glances .obra-section-title h3 {
+    line-height: 1.42857;
+  }
+  .obra-glances .section-title {
+    padding-bottom: 20px;
+  }
+  .obra-glances .section-subtitle {
+    padding-bottom: 10px;
+  }
+  .glance-item {
+    padding: 15px;
+  }
+  .glance-item .obra-icon {
+    padding-bottom: 0;
+  }
+  .obra-getstart-form.getstart-style-two .obra-section-title {
+    padding-bottom: 15px;
+  }
+  .obra-getstart-form.getstart-style-two .obra-form .section-title {
+    line-height: 40px;
+    font-size: 32px;
+  }
+  .getstart-style-two .obra-section-title h2 {
+    font-size: 30px;
+  }
+  .obra-page-title p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .obra-page-title h1 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .obra-page-title br {
+    display: none;
+  }
+  .page-title-wrap {
+    padding: 50px 0 40px;
+  }
+  .transparent-header .page-title-wrap {
+    padding: 90px 0 40px;
+  }
+  .page-title {
+    padding-bottom: 10px;
+  }
+  .info-title {
+    padding-bottom: 10px;
+  }
+  .unordered-list {
+    padding-bottom: 10px;
+  }
+  .obra-primary, .primary-spacer-one .obra-primary, .primary-spacer-one .obra-secondary, .obra-secondary {
+    padding-top: 50px;
+  }
+  .left-sidebar .obra-primary, .left-sidebar .obra-secondary, .obra-primary, .obra-secondary {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .woocommerce-page .obra-hide-sidebar .obra-primary {
+    padding-right: 0;
+  }
+  .widget-title, .widget-quick-navigation .widget-title {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+  }
+  .obra-widget {
+    padding-bottom: 15px;
+  }
+  .obra-widget.widget-search {
+    padding-bottom: 20px;
+  }
+  .obra-widget h4 {
+    line-height: 24px;
+  }
+  .obra-widget ul {
+    padding: 0;
+  }
+  .obra-widget ul li {
+    margin-bottom: 8px;
+  }
+  .news-item {
+    padding-bottom: 18px;
+  }
+  .widget-tags .widget-title {
+    padding-bottom: 15px;
+  }
+  .masonry-filters {
+    padding-bottom: 10px;
+  }
+  .obra-masonry {
+    margin: 0;
+    text-align: center;
+  }
+  .obra-masonry[data-space] {
+    margin: 0;
+  }
+  .obra-masonry[data-space] .masonry-item {
+    padding: 0 0 25px;
+  }
+  .obra-masonry[data-space] .masonry-item, .masonry-item:last-child {
+    padding-bottom: 0;
+  }
+  .obra-masonry[data-items] .masonry-item {
+    width: 100%;
+  }
+  .masonry-item {
+    width: 100%;
+    padding: 0 0 25px;
+  }
+  .masonry-item .obra-image img {
+    width: auto;
+  }
+  .portfolio-item {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .portfolio-detail-wrap {
+    padding-top: 20px;
+  }
+  .portfolio-detail-wrap .portfolio-categories {
+    padding-bottom: 10px;
+  }
+  .portfolio-detail-wrap .obra-link {
+    padding-top: 5px;
+  }
+  .portfolio-detail-items {
+    padding-top: 5px;
+  }
+  .portfolio-detail-item {
+    padding-bottom: 10px;
+  }
+  .obra-share-link {
+    margin-top: 15px;
+  }
+  .portfolio-controls {
+    padding-top: 25px;
+  }
+  .full-width .portfolio-detail-wrap .portfolio-title {
+    padding-bottom: 5px;
+  }
+  .full-width .portfolio-detail-wrap {
+    padding: 0 0 25px;
+  }
+  .full-width .portfolio-detail-wrap .obra-link {
+    padding-top: 0;
+  }
+  .full-width .obra-share-link, .full-width.full-width-style-two .obra-share-link {
+    margin-top: 25px;
+  }
+  .full-width .portfolio-controls {
+    padding-top: 45px;
+  }
+  .portfolio-subtitle {
+    margin-bottom: 15px;
+  }
+  .blog-items-wrap .obra-btns-wrap {
+    padding-top: 0;
+  }
+  .blog-item {
+    width: 370px;
+    margin: 0 auto 25px;
+  }
+  .blog-info-wrap {
+    padding: 25px;
+  }
+  .blog-info h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .blog-info .obra-link, .blog-style-two .blog-info .obra-link {
+    padding-top: 0;
+  }
+  .blog-title, .blog-time, .blog-style-two .blog-title {
+    padding-bottom: 5px;
+  }
+  .blog-meta {
+    padding: 18px 25px 19px;
+  }
+  .bullet-list {
+    padding: 5px 0 10px;
+  }
+  .obra-footer-wrap {
+    padding: 50px 0 30px;
+  }
+  .obra-footer-wrap p {
+    padding-bottom: 10px;
+  }
+  .obra-footer-wrap .footer-item {
+    padding-bottom: 20px;
+  }
+  .obra-footer-wrap .obra-item {
+    padding-bottom: 15px;
+  }
+  .obra-footer-wrap .obra-item:last-child {
+    padding-bottom: 0;
+  }
+  .footer-column-title {
+    padding-bottom: 15px;
+  }
+  .obra-copyright {
+    padding: 34px 0 30px;
+  }
+  .obra-copyright ul li {
+    padding: 6px 10px;
+  }
+  /* Obra Home Gmail Page CSS */
+  .gmail-template .obra-get-start .obra-link {
+    padding-top: 0;
+  }
+  .obra-banner-separator {
+    height: 180px;
+  }
+  .obra-gmail-features .feature-title {
+    padding-bottom: 5px;
+  }
+  .get-access-wrap {
+    padding-top: 25px;
+    margin-top: 5px;
+  }
+  .obra-gmail-desktop {
+    padding: 50px 0 35px;
+  }
+  .obra-gmail-desktop .gmail-feature-info {
+    padding: 20px 0 0;
+  }
+  .gmail-feature-item {
+    padding-bottom: 25px;
+    text-align: center;
+  }
+  .gmail-feature-item:nth-child(2n) [class*="col-"]:first-child {
+    float: none;
+    text-align: center;
+  }
+  .gmail-feature-info {
+    padding: 20px 0 0;
+  }
+  .gmail-feature-info h2, .obra-gmail-app .gmail-feature-info h2, .enterprise-wrap h2 {
+    font-size: 26px;
+    line-height: 34px;
+  }
+  .gmail-feature-info br {
+    display: none;
+  }
+  .gmail-feature-title {
+    padding-bottom: 5px;
+  }
+  .obra-gmail-app {
+    padding: 50px 0 35px;
+  }
+  .get-apps-info {
+    width: auto;
+  }
+  .get-apps-info br {
+    display: none;
+  }
+  .get-apps-info .obra-btns-wrap {
+    padding-top: 0;
+  }
+  .get-apps-title {
+    padding-bottom: 10px;
+  }
+  /* Obra Home Bitbucket Page CSS */
+  .bitbucket-template .banner-caption {
+    float: none;
+    text-align: center;
+  }
+  .bitbucket-template .banner-caption .obra-btn {
+    padding: 12px 25px 13px;
+    font-size: 16px;
+  }
+  .obra-bitbucket-features .obra-section-title, .obra-bitbucket-features .feature-item {
+    padding-bottom: 25px;
+  }
+  .obra-bitbucket-features .feature-info {
+    padding-top: 15px !important;
+  }
+  .obra-bitbucket-features .feature-title {
+    padding-bottom: 10px;
+  }
+  .obra-bitbucket-features .feature-title br {
+    display: none;
+  }
+  .obra-bitbucket-features .obra-link {
+    padding-top: 0;
+    font-size: 16px;
+  }
+  .obra-workflow .section-subtitle {
+    margin-bottom: 15px;
+  }
+  .workflow-item {
+    padding: 18px 0 10px 0;
+  }
+  .workflow-item:first-child {
+    padding-top: 0;
+  }
+  .workflow-info .workflow-title {
+    padding-bottom: 5px;
+  }
+  .workflow-info {
+    padding-left: 25px;
+  }
+  .workflow-template {
+    padding-top: 25px;
+  }
+  .bitbucket-template .obra-plans .obra-section-title h2 {
+    font-size: 30px;
+  }
+  /* Obra Home Dropbox Page CSS */
+  .dropbox-template .banner-caption {
+    float: none;
+    text-align: center;
+  }
+  .obra-dropbox-features .obra-section-title {
+    padding-bottom: 0;
+  }
+  .obra-dropbox-features .section-title {
+    padding-bottom: 10px;
+  }
+  .obra-dropbox-features .feature-item {
+    padding: 20px 25px;
+    margin: 5px 0;
+  }
+  .obra-dropbox-features .feature-info {
+    padding-top: 10px;
+  }
+  .obra-dropbox-features .feature-title {
+    padding-bottom: 5px;
+  }
+  .obra-dropbox-features .obra-btns-wrap {
+    padding-top: 0;
+  }
+  .enterprise-wrap .nav-tabs {
+    margin-bottom: 25px;
+  }
+  .enterprise-wrap .nav-tabs > li {
+    float: none;
+    width: auto;
+  }
+  .enterprise-wrap .nav-tabs > li > a {
+    border-bottom: 1px solid #eeeeee;
+    border-right: none;
+  }
+  .enterprise-wrap .nav-tabs > li.active > a, .enterprise-wrap .nav-tabs > li.active > a:hover, .enterprise-wrap .nav-tabs > li.active > a:focus {
+    border-bottom: 1px solid #eeeeee;
+  }
+  .enterprise-wrap .nav-tabs > li:last-child > a {
+    border-bottom: none;
+  }
+  .enterprise-wrap .nav-tabs > li.active > a, .enterprise-wrap .nav-tabs > li.active > a:hover, .enterprise-wrap .nav-tabs > li.active > a:focus {
+    border-right: none;
+  }
+  .enterprise-wrap .obra-link {
+    padding-top: 5px;
+  }
+  .enterprise-info {
+    padding-top: 20px;
+  }
+  .enterprise-title {
+    padding-bottom: 5px;
+  }
+  .obra-teamwork .obra-background {
+    min-height: 300px;
+  }
+  .teamwork-info {
+    padding: 50px 25px;
+  }
+  .teamwork-info .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  /* Obra Home Zapier Page CSS */
+  .zapier-template .banner-caption {
+    width: auto;
+    padding-top: 0;
+  }
+  .zapier-template .banner-caption p {
+    line-height: 28px;
+  }
+  .zapier-template .banner-caption-title {
+    padding-bottom: 10px;
+  }
+  .app-work-item {
+    padding-bottom: 15px;
+  }
+  .app-work-label {
+    padding: 20px 0 10px;
+  }
+  .app-work-title {
+    padding-bottom: 10px;
+  }
+  .obra-connectors .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  .connector-app-title {
+    padding-bottom: 0;
+  }
+  .obra-view-plans h3 {
+    line-height: 30px;
+  }
+  .view-plan-title {
+    padding-bottom: 20px;
+  }
+  .obra-special-features .section-title {
+    padding-bottom: 10px;
+  }
+  .obra-special-features .obra-btns-wrap {
+    padding-top: 25px;
+  }
+  .special-feature-item {
+    padding-bottom: 30px;
+  }
+  .special-feature-info {
+    padding-top: 20px;
+  }
+  .special-feature-info .obra-link {
+    padding-top: 0;
+    font-size: 16px;
+  }
+  .special-feature-title {
+    padding-bottom: 5px;
+  }
+  /* Obra Home Google Analytics Page CSS */
+  .obra-analytics-features .feature-item {
+    padding: 20px 25px;
+    margin-bottom: 25px;
+  }
+  .obra-analytics-features .feature-info {
+    padding-top: 10px;
+  }
+  .obra-analytics-features .feature-title {
+    padding-bottom: 8px;
+  }
+  .obra-device-features .feature-item {
+    padding-top: 5px;
+  }
+  .obra-device-features .feature-info {
+    padding-top: 10px;
+  }
+  .obra-device-features .feature-title {
+    padding-bottom: 10px;
+  }
+  .obra-device-features.device-features-style-two {
+    padding-bottom: 0;
+  }
+  .device-features-style-two .obra-image {
+    padding-top: 15px;
+  }
+  .device-features-info {
+    padding: 15px 0 0;
+  }
+  .device-features-info ul {
+    padding-top: 0;
+    font-size: 17px;
+  }
+  .device-features-info ul li {
+    padding-top: 10px;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .freshbook-template .banner-caption-title {
+    padding-bottom: 10px;
+  }
+  .obra-freshbook-features .feature-item, .obra-trello-features .feature-item, .obra-freshbook-features .feature-title, .obra-trello-features .feature-title {
+    padding-bottom: 5px;
+  }
+  .obra-freshbook-features .feature-info, .obra-trello-features .feature-info {
+    padding-top: 5px;
+  }
+  .feature-template {
+    padding: 20px 0 25px;
+  }
+  .obra-features-work .nav-tabs, .nav-tabs-one ul.nav.nav-tabs {
+    margin-bottom: 15px;
+  }
+  .obra-features-work .nav-tabs > li, .nav-tabs-one .nav-tabs > li {
+    padding-bottom: 10px;
+  }
+  .features-work-info {
+    padding-top: 25px;
+  }
+  .obra-features-work .feature-work-title {
+    padding-bottom: 10px;
+  }
+  .softwares-feature-item .special-feature-info {
+    padding-bottom: 20px;
+  }
+  .obra-softwares-features .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  .softwares-feature-item {
+    padding-bottom: 25px;
+  }
+  .careers-wrap {
+    padding-top: 25px;
+  }
+  .career-item {
+    margin-bottom: 25px;
+  }
+  .career-title, .career-subtitle {
+    padding: 3px 0;
+  }
+  .career-title {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  /* Obra Home Trello Page CSS */
+  .trello-template .banner-caption {
+    width: auto;
+  }
+  .obra-trello-features {
+    padding-top: 50px;
+  }
+  .obra-trello-features .feature-template {
+    padding-top: 15px;
+  }
+  .obra-board-status .nav-tabs > li {
+    padding: 0 0 10px;
+  }
+  .obra-board-status .nav-tabs > li .board-tab-text {
+    padding: 5px 0;
+  }
+  .obra-board-status .tab-content {
+    padding-top: 10px;
+  }
+  /* Obra Home AWS Page CSS */
+  .aws-template .banner-caption {
+    width: auto;
+  }
+  .aws-template .banner-caption-title {
+    padding-bottom: 10px;
+  }
+  .integration-style-three .integration-info {
+    padding-top: 25px;
+  }
+  .obra-services .obra-btns-wrap {
+    padding-top: 0;
+  }
+  .service-item {
+    padding: 20px 25px;
+    margin-bottom: 25px;
+  }
+  .service-item .obra-icon {
+    padding-bottom: 5px;
+  }
+  .service-title {
+    padding-bottom: 10px;
+  }
+  .obra-aws-features .feature-info {
+    padding-top: 15px;
+  }
+  .obra-aws-features .feature-title {
+    padding-bottom: 5px;
+  }
+  .obra-signup .section-title {
+    padding-bottom: 10px;
+  }
+  .obra-signup .obra-section-title .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  .signup-info {
+    padding-top: 25px;
+  }
+  /* Obra About Us Page CSS */
+  .obra-story {
+    padding: 50px 0;
+    text-align: center;
+  }
+  .obra-story .obra-section-title {
+    padding-bottom: 0;
+  }
+  .obra-story .obra-section-title p {
+    text-align: center;
+  }
+  .obra-story .obra-section-title h2 {
+    font-size: 30px;
+  }
+  .obra-story .section-title {
+    padding-bottom: 10px;
+  }
+  .story-wrap {
+    width: auto;
+  }
+  .story-images-wrap {
+    padding-top: 0;
+  }
+  .story-images-wrap .obra-image {
+    padding-top: 25px;
+  }
+  .obra-dropbox-features.dropbox-features-style-two .section-title {
+    padding-bottom: 10px;
+  }
+  .mate-item {
+    margin-bottom: 25px;
+  }
+  /* Obra Job Page CSS */
+  .job-requiarements {
+    margin-bottom: 15px;
+  }
+  .job-requiarements .feature-item, .job-requiarements .feature-info {
+    padding-top: 5px;
+  }
+  .job-requiarements .feature-title {
+    padding-bottom: 5px;
+  }
+  .job-positions {
+    padding-top: 25px;
+  }
+  .job-positions .info-title {
+    padding-bottom: 15px;
+  }
+  .job-positions .panel-content {
+    padding: 0 20px 20px;
+  }
+  /* Obra Jobs Details Page CSS */
+  .job-description {
+    padding-bottom: 10px;
+  }
+  .job-detail-wrap {
+    padding: 5px 30px 10px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+  }
+  .job-detail-item {
+    padding: 15px 0;
+  }
+  .job-apply {
+    padding-top: 25px;
+  }
+  /* Obra Contact Us Page CSS */
+  .contact-info, .contact-info-title, .contact-links .contact-info-title {
+    padding-bottom: 5px;
+  }
+  .contact-info.contact-links {
+    padding-bottom: 15px;
+  }
+  .obra-contact-wrap textarea {
+    height: 130px;
+  }
+  .obra-contact-wrap input[type="submit"] {
+    margin-top: 0;
+  }
+  /* Obra FAQ Page CSS */
+  .faq-category-item {
+    padding-bottom: 5px;
+  }
+  .faq-category-title {
+    padding-bottom: 15px;
+  }
+  .obra-quick-support {
+    padding-top: 10px;
+  }
+  .obra-quick-support .obra-icon {
+    padding-bottom: 10px;
+  }
+  .obra-quick-support .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  .quick-support-title {
+    padding-bottom: 5px;
+  }
+  /* Obra Terms & Conditions Page CSS */
+  .obra-text-page p {
+    padding-bottom: 10px;
+    line-height: 26px;
+  }
+  .obra-text-page h1, .obra-text-page h2, .obra-text-page h3, .obra-text-page h4, .obra-text-page h5, .obra-text-page h6 {
+    padding: 5px 0;
+  }
+  .obra-text-page ul, .obra-text-page ol {
+    padding: 0;
+    line-height: 26px;
+  }
+  .obra-text-page ul li, .obra-text-page ol li {
+    padding-bottom: 10px;
+  }
+  /* Obra Portfolio Single 2 Page CSS */
+  .portfolio-label {
+    bottom: 25px;
+    left: 25px;
+  }
+  /* Obra Portfolio Single 3 Page CSS */
+  .carousel-style-three.owl-drag .owl-prev:before {
+    left: 15px;
+  }
+  .carousel-style-three.owl-drag .owl-next:before {
+    right: 15px;
+  }
+  .carousel-style-three.owl-carousel .owl-dots {
+    bottom: 20px;
+  }
+  /* Obra Shop Page CSS */
+  .woocommerce ul.products {
+    margin: 0;
+    text-align: center;
+  }
+  .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    float: none;
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
+    max-width: 358px;
+    /*padding: 0 0 25px;*/
+    text-align: left;
+  }
+/*  .woocommerce .woo-col-2 ul.products li.product, .woocommerce-page .woo-col-2 ul.products li.product,
+  .woocommerce .woo-col-4 ul.products li.product, .woocommerce-page .woo-col-4 ul.products li.product {
+    width: auto;
+    float: none;
+  }*/
+  .woocommerce ul.products li.product:nth-child(2n), .woocommerce-page ul.products li.product:nth-child(2n),
+  .woocommerce-page[class*=columns-] ul.products li.product:nth-child(2n), .woocommerce[class*=columns-] ul.products li.product:nth-child(2n),
+  .woocommerce ul.products[class*=columns-] li.product:nth-child(2n), .woocommerce-page ul.products[class*=columns-] li.product:nth-child(2n) {
+    float: none;
+  }
+  .woocommerce nav.woocommerce-pagination {
+    padding-top: 45px;
+  }
+  .woocommerce ul.products li.product:last-child, .woocommerce-page ul.products li.product:last-child {
+    padding-bottom: 0;
+  }
+  /* Obra Product Details Page CSS */
+  .woocommerce.single-product .woocommerce-page > .container {
+    width: 100%;
+  }
+  .single-product .right-sidebar .product > .container {
+    width: auto;
+    padding-left: 15px;
+  }
+  .single-product .left-sidebar .product > .container {
+    width: auto;
+    padding-right: 15px;
+  }
+  .product-info-wrap {
+    padding: 50px 0 25px;
+  }
+  .woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+    padding-top: 20px;
+  }
+  .woocommerce div.product p.price {
+    margin-bottom: 15px;
+  }
+  .woocommerce div.product form.cart, .woocommerce div.product p.cart {
+    padding: 10px 0 20px;
+  }
+  .woocommerce div.product .summary .product_meta {
+    padding-bottom: 0;
+  }
+  .woocommerce .woocommerce-tabs {
+    padding: 0 0 50px;
+  }
+  .woocommerce div.product .woocommerce-tabs ul.tabs {
+    margin-bottom: 20px;
+  }
+  .woocommerce div.product .woocommerce-tabs ul.tabs li {
+    padding: 0 15px;
+  }
+  .woocommerce div.product .woocommerce-tabs .panel {
+    margin-bottom: 0;
+  }
+  .woocommerce .related-product-title {
+    padding-bottom: 20px;
+  }
+  .woocommerce .additional-info dl {
+    padding: 15px 0;
+  }
+  .woocommerce .additional-info .dl-horizontal dt {
+    width: auto;
+  }
+  .woocommerce .additional-info .dl-horizontal dd {
+    margin-bottom: 0;
+  }
+  .woocommerce #reviews {
+    padding-top: 5px;
+  }
+  .woocommerce #reviews #comments ol.commentlist li {
+    padding-bottom: 10px;
+  }
+  .woocommerce #reviews #comments ol.commentlist li .comment-text {
+    padding-left: 25px;
+  }
+  .woocommerce #reviews #comments ol.commentlist li .comment-text .description {
+    padding-top: 5px;
+  }
+  .woocommerce #review_form #respond.comment-respond {
+    padding-top: 0;
+  }
+  .woocommerce #review_form #respond .comment-form-author, .woocommerce #review_form #respond .comment-form-email {
+    float: none;
+    width: auto;
+  }
+  .woocommerce #review_form #respond input[type="text"], .woocommerce #review_form #respond input[type="email"], .woocommerce #review_form #respond textarea {
+    margin-bottom: 16px;
+  }
+  .woocommerce #review_form #respond textarea {
+    height: 130px;
+  }
+  .woocommerce #review_form #respond p.form-submit {
+    padding-top: 0;
+  }
+  .woocommerce #reviews .comment-reply-title {
+    padding-bottom: 10px;
+  }
+  .woocommerce .review-rating {
+    padding-left: 25px;
+  }
+  /* Obra Cart Page CSS */
+  .woocommerce table.shop_table {
+    margin-bottom: 25px;
+  }
+  /* Obra Checkout Page CSS */
+  .woocommerce form.login, .woocommerce form.register {
+    padding: 25px;
+  }
+  .woocommerce form .form-text {
+    padding: 0 0 15px;
+  }
+  .woocommerce form .lost_password {
+    padding: 15px 0 0;
+  }
+  .woocommerce form .form-row-first, .woocommerce form .form-row-last, .woocommerce-page form .form-row-first, .woocommerce-page form .form-row-last {
+    float: none;
+    width: auto;
+  }
+  .woocommerce form .form-row input.input-text, .woocommerce form .form-row select, .woocommerce form .form-row textarea, .woocommerce form.woocommerce-checkout .form-row input.input-text, .woocommerce form.woocommerce-checkout .form-row textarea {
+    margin-bottom: 16px;
+  }
+  .woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register {
+    margin: 25px 0;
+  }
+  .woocommerce form.checkout_coupon {
+    padding: 25px;
+  }
+  .woocommerce form.checkout_coupon input.input-text {
+    float: none;
+    width: 100%;
+  }
+  .woocommerce form.checkout_coupon input.button {
+    margin-left: 0;
+  }
+  .woocommerce-checkout {
+    padding-top: 0;
+  }
+  .woocommerce-checkout h3 {
+    padding-bottom: 10px;
+  }
+  .woocommerce div.create-account {
+    padding-bottom: 0;
+  }
+  .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+    padding-top: 20px;
+  }
+  .woocommerce form .shipping-diffrent-address {
+    padding-top: 10px;
+  }
+  .woocommerce-checkout-review-order {
+    padding: 10px 0;
+  }
+  /* Obra Blog List Page CSS */
+  .blog-style-two .blog-item {
+    width: auto;
+    margin-bottom: 25px;
+  }
+  .blog-style-two .blog-item:last-child {
+    margin-bottom: 25px;
+  }
+  .blog-style-two .blog-info-wrap {
+    padding: 25px;
+  }
+  /* Obra Single Post 1 Page CSS */
+  .obra-blog-detail .blog-meta {
+    padding: 19px 25px 18px;
+  }
+  .blog-detail-wrap {
+    padding: 25px 25px 15px;
+  }
+  .blog-detail-wrap p {
+    padding-bottom: 10px;
+  }
+  .blog-detail-wrap p span {
+    padding-bottom: 0;
+    font-size: 17px;
+  }
+  .blog-detail-wrap h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .blog-detail-wrap h1, .blog-detail-wrap h2, .blog-detail-wrap h3, .blog-detail-wrap h4, .blog-detail-wrap h5, .blog-detail-wrap h6 {
+    padding: 5px 0;
+  }
+  .blog-detail-wrap .blog-title {
+    padding-bottom: 10px;
+  }
+  .obra-blog-meta {
+    padding: 20px 0 10px;
+  }
+  .obra-blog-share .blog-share-label {
+    padding-bottom: 10px;
+  }
+  .obra-blog-controls {
+    padding-top: 25px;
+  }
+  .comments-section {
+    padding: 25px 0 0;
+  }
+  .obra-comments-area .comments-title {
+    padding-bottom: 25px;
+  }
+  .obra-comments-area .comment-main-area {
+    padding-left: 25px;
+  }
+  .obra-comments-area .obra-comments-meta {
+    padding-bottom: 5px;
+  }
+  .obra-comments-area .comment-item {
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+  }
+  .obra-comments-area .children li .comment-item {
+    padding: 0 0 25px 25px;
+  }
+  .obra-blog-detail .comment-reply-title {
+    padding-bottom: 10px;
+  }
+  .obra-comment-form form input, .obra-comment-form form textarea, .obra-comment-form form select {
+    margin-bottom: 16px;
+  }
+  .obra-comment-form label {
+    padding-bottom: 9px;
+  }
+  /* Obra Content Cross Check Page CSS */
+  .entry-content dd {
+    margin-bottom: 10px;
+  }
+  .wp-caption {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  .entry-content .comment-list article, .entry-content .comment-list .pingback, .entry-content .comment-list .trackback {
+    padding: 20px 0;
+  }
+  .entry-content .comment-content ul, .entry-content .comment-content ol {
+    margin: 0 0 10px 0;
+  }
+  .entry-content .comment-metadata {
+    margin-bottom: 5px;
+  }
+  .entry-content .comment-list .comment-reply-link {
+    margin-top: 0;
+  }
+  .entry-content .comment-list .children {
+    padding-left: 0;
+  }
+  .entry-content .comment-notes, .entry-content .comment-awaiting-moderation, .entry-content .logged-in-as, .entry-content .form-allowed-tags {
+    padding-bottom: 10px;
+  }
+  .obra-unit-fix .entry-content .comment-form {
+    padding-top: 0;
+  }
+  .obra-unit-fix .entry-content .comment-list article, .obra-unit-fix .entry-content .comment-list .pingback, .obra-unit-fix .entry-content .comment-list .trackback {
+    padding: 15px 0 20px;
+  }
+  /* Obra 404 Page CSS */
+  .obra-404-error {
+    height: auto !important;
+    min-height: 10px;
+    padding: 80px 0;
+  }
+  .obra-404-error h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .obra-404-error .obra-icon {
+    padding-bottom: 15px;
+  }
+  .obra-404-error .obra-btns-wrap {
+    padding-top: 10px;
+  }
+  .error-title {
+    padding-bottom: 10px;
+  }
+  .obra-404-error p {
+    font-size: 16px;
+  }
+  /* Obra Login Page CSS */
+  .obra-form .obra-section-title {
+    padding-bottom: 10px;
+  }
+  .obra-form .obra-section-title p {
+    line-height: 26px;
+  }
+  .obra-form .section-title {
+    padding-bottom: 8px;
+  }
+  .form-wrap {
+    width: auto;
+  }
+  .form-wrap input[type="text"], .form-wrap input[type="email"], .form-wrap input[type="password"], .form-wrap input[type="tel"], .form-wrap input[type="search"], .form-wrap input[type="date"], .form-wrap input[type="time"], .form-wrap input[type="datetime-local"], .form-wrap input[type="month"], .form-wrap input[type="url"], .form-wrap input[type="number"], .form-wrap textarea, .form-wrap select, .form-wrap .form-control {
+    margin-bottom: 16px;
+  }
+  .form-wrap .remember-me {
+    padding: 1px 0 10px;
+  }
+  .form-wrap .create-account-link {
+    padding-top: 20px;
+  }
+  .width-three {
+    width: 100%;
+  }
+  /* Woocommerce Order Received Page */
+  .woocommerce-order-received .woocommerce ul.order_details li {
+    margin-top: 20px;
+  }
+  .woocommerce-order-received .woocommerce ul.order_details{
+    padding-left: 0;
+  }
+  .obra-footer .obra-footer-wrap h4.widget-title {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  }
+  .obra-secondary {
+    padding-bottom: 40px;
+  }
+
+}
+
+@media screen and (max-width:690px) {
+  .width-four {
+    width: 100%;
+  }
+  .woocommerce .woocommerce-error .button, .woocommerce .woocommerce-info .button,
+  .woocommerce .woocommerce-message .button, .woocommerce-page .woocommerce-error .button,
+  .woocommerce-page .woocommerce-info .button, .woocommerce-page .woocommerce-message .button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+    .obra-tabs.obra-board-status .tab-item-content li {width:100%;}
+}
+
+@media screen and (max-width:599px) {
+  /* Obra Normal CSS */
+  .obra-banner, .obra-main-wrap[class*="-template"] .obra-banner {
+    height: 450px;
+    min-height: 450px;
+  }
+  .obra-main-wrap[class*="-template"] .obra-callout .obra-btn {
+    padding: 5px 20px 6px;
+  }
+  .obra-main-wrap[class*="-template"] .obra-callout.callout-style-two h2 {
+    font-size: 26px;
+    line-height: 34px;
+  }
+  .header-buttons {
+    display: none;
+  }
+  .banner-caption h2, .obra-main-wrap[class*="-template"] .banner-caption h2, .obra-section-title h2, .obra-main-wrap[class*="-template"] .start-style-two .obra-section-title h2, .testimonials-style-two .obra-section-title h2, .get-app-style-two h2, .obra-softwares-features h2, .obra-signup .obra-section-title h2, .integration-style-four .obra-section-title h2, .obra-page-title h1, .portfolio-detail-wrap h2, .obra-form .obra-section-title h2 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .obra-callout h2 {
+    font-size: 24px;
+  }
+  h2.callout-title p {
+    line-height: 40px;
+  }
+  .obra-clients.clients-style-six h2 {
+    line-height: 32px;
+  }
+  .page-title {
+    padding-bottom: 5px;
+  }
+  .blog-meta .pull-left {
+    width: 100%;
+    padding-bottom: 5px;
+  }
+  .blog-meta .pull-right {
+    width: 100%;
+  }
+  /* Obra Home Gmail Page CSS */
+  .get-access-wrap h2, .gmail-feature-info h2, .obra-gmail-app .gmail-feature-info h2, .enterprise-wrap h2, .special-feature-info h3 {
+    font-size: 24px !important;
+    line-height: 30px;
+  }
+  /* Obra Home Bitbucket Page CSS */
+  .bitbucket-template .obra-plans .obra-section-title h2, .getstart-style-two .obra-section-title h2 {
+    font-size: 28px;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .career-info {
+    padding: 0 20px;
+  }
+  /* Obra Home AWS Page CSS */
+  .obra-theme-info h3 {
+    line-height: 1.42857;
+  }
+  /* Obra About Us Page CSS */
+  .obra-story .obra-section-title p {
+    line-height: 28px;
+  }
+  .obra-story .obra-section-title h2 {
+    font-size: 26px;
+  }
+  /* Obra Product Details Page CSS */
+  .woocommerce #reviews #comments ol.commentlist li img.avatar {
+    float: none;
+  }
+  .woocommerce #reviews #comments ol.commentlist li .comment-text {
+    overflow: hidden;
+    padding: 10px 0 0;
+  }
+  .woocommerce .review-rating {
+    display: block;
+    padding: 15px 0 0;
+  }
+  /* Obra Single Post 1 Page CSS */
+  .blog-detail-wrap h2 {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .obra-author-info {
+    text-align: center;
+  }
+  .author-avatar {
+    float: none;
+  }
+  .author-content {
+    overflow: hidden;
+    padding: 15px 0 0;
+  }
+  .author-content .obra-social {
+    padding-top: 0;
+  }
+  .author-content .obra-social a {
+    margin: 0 2px;
+  }
+  .obra-comments-area .comment-image {
+    float: none;
+  }
+  .obra-comments-area .comment-main-area {
+    overflow: hidden;
+    padding: 10px 0 0;
+  }
+  .form-submit input[type="submit"] {
+    min-width: 100%;
+  }
+  /* Obra 404 Page CSS */
+  .obra-404-error h2 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  /* Obra Login Page CSS */
+  .form-wrap .forgot-link {
+    display: block;
+    float: none;
+    padding-top: 0;
+  }
+  .form-wrap .remember-me {
+    padding: 1px 0 20px;
+  }
+  /* Cart Page */
+  .woocommerce-page table.cart td.actions .coupon .input-text+.button {
+    width: 100%;
+    margin-top: 8px;
+  }
+  .woocommerce-cart table.cart td.actions .coupon .input-text {
+    width: 100%;
+  }
+  /* Checkout Page */
+  .woocommerce .woocommerce-checkout-review-order table.shop_table th {
+    min-width: auto;
+  }
+}
+@media screen and (max-width:540px) {
+  .woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count,
+  .woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering {
+    width: 100%;
+  }
+  .woocommerce ul.products li.product, .woocommerce-page ul.products li.product,
+  .woocommerce .woo-col-4 ul.products li.product, .woocommerce-page .woo-col-4 ul.products li.product,
+  .woocommerce .woo-col-2 ul.products li.product, .woocommerce-page .woo-col-2 ul.products li.product,
+  .woocommerce .woo-col-3 ul.products li.product, .woocommerce-page .woo-col-3 ul.products li.product {
+    width: 100%;
+    float: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .woocommerce-page .woocommerce-ordering .nice-select {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .search-box {
+    width: 380px;
+  }
+}
+@media screen and (max-width:529px) {
+  .mc4wp-form-fields input[type=submit] {
+    background: #0066ff;
+    margin-left: 0;
+    margin-top: 15px;
+    width: 304px;
+  }
+  .woocommerce .review-rating, .woocommerce .comment-form-rating {
+    padding-left: 0;
+    width: 100%
+  }
+  .woocommerce-cart a.checkout-button.button.alt.wc-forward, .woocommerce-cart .wcppec-checkout-buttons {
+    width: 100%;
+  }
+  .woocommerce form.login .lost_password, .woocommerce form.register .lost_password {
+    float: none;
+    width: 100%;
+    padding-top: 5px;
+  }
+}
+@media screen and (max-width:492px) {
+  .width-five {
+    width: 100%;
+  }
+  ul.bullet-list {
+    padding: 5px 0 20px 21px;
+  }
+  .obra-blog-share a {
+    margin-top: 12px;
+  }
+}
+@media screen and (max-width:479px) {
+  /* Obra Normal CSS */
+  .obra-brand img {
+    max-width: 150px;
+    height: auto;
+  }
+  .search-box form p {
+    position: relative;
+  }
+  .search-box input[type="text"] {
+    float: none;
+    width: 100%;
+    padding-right: 70px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+  }
+  .search-box input[type="submit"] {
+    position: absolute;
+    top: 1px;
+    bottom: 1px;
+    right: 1px;
+    width: 55px;
+    height: auto;
+    background-color: #444444;
+    background-image: url(../images/icons/icon36@3x.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 14px auto;
+    padding: 0;
+    text-indent: -99999px;
+  }
+  .search-box input[type="submit"]:hover {
+    background-color: #333333;
+  }
+  .search-box {
+    width: 300px;
+    right: -20px;
+  }
+  .obra-banner .banner-caption h2, .obra-main-wrap[class*="-template"] .banner-caption h2, .obra-section-title h2, .obra-clients h2, .testimonials-style-two .obra-section-title h2, .get-app-style-two h2, .obra-softwares-features h2, .integration-style-four .obra-section-title h2, .portfolio-detail-wrap h2 {
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .obra-typewriter {
+    font-size: 24px;
+  }
+  .typed-cursor:after {
+    height: 20px;
+  }
+  .banner-caption p, .obra-section-title p, .trello-template .banner-caption p {
+    font-size: 17px;
+  }
+  .banner-caption .other-option {
+    display: block;
+    margin: 0 0 8px;
+  }
+  .banner-caption .learn-link {
+    margin: 0;
+  }
+  .feature-item {
+    text-align: center;
+  }
+  .feature-item .pull-left {
+    width: 100%;
+  }
+  .feature-info {
+    clear: both;
+    padding: 5px 0 0;
+  }
+  .panel-title {
+    font-size: 17px;
+  }
+  .obra-subscribe .obra-section-title h2 {
+    line-height: 30px;
+  }
+  .get-apps-links {
+    font-size: 40px;
+  }
+  .glance-item {
+    display: block;
+    width: auto;
+    margin: 0 0 10px;
+  }
+  .obra-video-btn {
+    width: 70px;
+    height: 70px;
+  }
+  .obra-share-link .obra-social a {
+    font-size: 18px;
+  }
+  .portfolio-controls a i {
+    margin: 0;
+    font-size: 24px;
+    opacity: 1;
+  }
+  .control-link-title {
+    display: none;
+  }
+  .blog-item {
+    width: auto;
+  }
+  .blog-info h2 {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  /* Obra Home Gmail Page CSS */
+  .get-apps-info {
+    padding: 25px 25px 30px;
+  }
+  .get-apps-info h2 {
+    line-height: 30px;
+  }
+  /* Obra Home Bitbucket Page CSS */
+  .workflow-item {
+    padding: 15px 0;
+    text-align: center;
+  }
+  .workflow-item .pull-left {
+    width: 100%;
+  }
+  .workflow-info {
+    clear: both;
+    padding: 5px 0 0;
+  }
+  .bitbucket-template .obra-plans .obra-section-title h2, .obra-main-wrap[class*="-template"] .start-style-two .obra-section-title h2, .obra-main-wrap[class*="-template"] .obra-callout.callout-style-two h2, .getstart-style-two .obra-section-title h2, .board-tab-title,  .contact-info h3 {
+    font-size: 24px;
+  }
+  /* Obra Home Dropbox Page CSS */
+  .obra-teamwork .obra-background {
+    min-height: 250px;
+  }
+  /* Obra Home Google Analytics Page CSS */
+  .google-analytics-template .obra-brand {
+    padding: 31px 0;
+  }
+  .device-features-style-two, .obra-device-features.device-features-style-two .obra-image {
+    text-align: center;
+  }
+  .device-features-style-two .device-features-info .obra-section-title {
+    text-align: center;
+  }
+  /* Obra Home Freshbook Page CSS */
+  .careers-wrap {
+    text-align: center;
+  }
+  .career-item {
+    padding: 25px;
+  }
+  .career-item .obra-icon {
+    display: block;
+    width: auto;
+  }
+  .career-info {
+    display: block;
+    padding: 10px 0 0;
+  }
+  .career-info:after {
+    display: none;
+  }
+  /* Obra Home Trello Page CSS */
+  .obra-board-status {
+    text-align: center;
+  }
+  .obra-board-status .nav-tabs > li {
+    padding-bottom: 15px;
+  }
+  .obra-board-status .nav-tabs > li h2 {
+    font-size: 36px;
+    line-height: 36px;
+  }
+  .board-tab-counter {
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .board-tab-info {
+    overflow: visible;
+    padding: 5px 0 0;
+  }
+  /* Obra Home AWS Page CSS */
+  .obra-signup .section-title {
+    padding-bottom: 5px;
+  }
+  /* Obra Job Page CSS */
+  .job-requiarements .feature-item {
+    text-align: left;
+  }
+  /* Obra Contact Us Page CSS */
+  .obra-contact-wrap input[type="submit"] {
+    min-width: 100%;
+  }
+  /* Obra FAQ Page CSS */
+  .obra-quick-support h2 {
+    font-size: 24px;
+  }
+  /* Obra Portfolio Single 2 Page CSS */
+  .portfolio-label {
+    right: 25px;
+    padding: 11px 16px 10px;
+  }
+  /* Obra Shop Page CSS */
+  .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    max-width: 100%;
+  }
+  .woocommerce ul.products li.product .product-wrap {
+    padding: 20px 25px 0;
+  }
+  .woocommerce ul.products li.product a.button.add_to_cart_button {
+    bottom: 25px;
+    left: 25px;
+  }
+  /* Obra Product Details Page CSS */
+  .woocommerce div.product div.images .flex-control-thumbs {
+    width: 25%;
+  }
+  .woocommerce .woocommerce-product-gallery .woocommerce-product-gallery__wrapper,
+  .single-product div.product .woocommerce-product-gallery .flex-viewport {
+    width: 75%;
+  }
+  .woocommerce div.product .product_title {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  /* Obra Checkout Page CSS */
+  .woocommerce form .form-row label.inline, .woocommerce form.login .form-row label.inline {
+    display: block;
+    padding: 15px 0 0;
+  }
+  .woocommerce form .lost_password {
+    padding-top: 5px;
+  }
+  .woocommerce form .form-row input.button, .woocommerce form.checkout_coupon input.button, .woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+    min-width: 100%;
+  }
+  .woocommerce form .diffrent-address .wpcf7-list-item-label {
+    font-size: 18px;
+  }
+  .width-six {
+    width: 100%;
+  }
+}
+
+ @media screen and (max-width:390px) {
+  .mean-container .obra-header-right {margin-right: 10px; }
+  .mean-container .header-links-wrap {
+    margin-right: 30px;
+  }
+ }
+
+@media screen and (max-width:379px) {
+  .search-box {
+    width: 240px;
+    padding: 14px;
+  }
+}
+@media screen and (max-width:359px) {
+  /* Obra Normal CSS */
+  .connector-app-item {
+    display: block;
+    padding: 0 0 20px;
+  }
+  .obra-clients.clients-style-six h2 {
+    line-height: 30px;
+  }
+  /* Obra Product Details Page CSS */
+  .woocommerce div.product form.cart .button {
+    min-width: 155px;
+  }
+  /* Obra Single Post 1 Page CSS */
+  .blog-detail-wrap h2 {
+    font-size: 18px;
+  }
+  ul.bullet-list {
+    padding: 5px 0 20px 5px;
+  }
+  .mc4wp-form-fields input[type="email"] {
+    width: 100%;
+  }
+  .mc4wp-form-fields input[type=submit] {
+    width: 100%;
+  }
+}
+@media screen and (max-width:349px) {
+  .woocommerce div.product form.cart .button {
+    margin-top: 20px;
+  }
+  .blog-detail-wrap {
+    padding: 25px 15px 15px;
+  }
+  table {
+    font-size: 14px;
+  }
+}

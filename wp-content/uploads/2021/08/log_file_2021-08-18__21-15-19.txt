@@ -1,0 +1,283 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/mit
+Data file = C:\xampp\htdocs\mit/wp-content/uploads/2021/08/demo-content-import-file_2021-08-18__21-15-19.xml
+Widget file = C:\xampp\htdocs\mit/wp-content/uploads/2021/08/demo-widgets-import-file_2021-08-18__21-15-19.json
+Customizer file = C:\xampp\htdocs\mit/wp-content/uploads/2021/08/demo-customizer-import-file_2021-08-18__21-15-19.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_tag Cheap
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Development
+[WARNING] Failed to import product_tag Entertanment
+[WARNING] Failed to import product_tag Fashion
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import product_tag Logo
+[WARNING] Failed to import product_tag Money
+[WARNING] Failed to import product_cat Office
+[WARNING] Failed to import product_cat Technology
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Imported
+Recent Posts Advanced - Recent Posts - Imported
+Text - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Sidebar Footer 1 : 
+
+Text - No Title - Imported
+Socials - No Title - Imported
+
+Sidebar Footer 2 : 
+
+Links - Resources - Imported
+
+Sidebar Footer 3 : 
+
+Links - Agency - Imported
+
+Sidebar Footer 4 : 
+
+Mailchimp Sign-Up Form - Join our newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

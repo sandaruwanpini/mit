@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'circular';
+  font-weight: 700;
+  src: url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Black.eot'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Black.woff') format('woff'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Black.ttf') format('truetype'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Black.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'circular';
+  font-weight: 600;
+  src: url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Bold.eot'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Bold.woff') format('woff'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Bold.ttf') format('truetype'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Bold.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'circular';
+  font-weight: 400;
+  src: url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Book.eot'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Book.woff') format('woff'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Book.ttf') format('truetype'),
+    url('http://localhost/https:/sandaruwanpini.github.io/mit/wp-content/themes/ambersix/assets/font/circular/CircularStd-Book.svg') format('svg');
+}
